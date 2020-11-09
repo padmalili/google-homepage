@@ -1,1 +1,0 @@
-This mini project is for start to practice my previous knowledge learned in freecodecamp (little basis of HTML n CSS)
