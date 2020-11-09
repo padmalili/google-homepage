@@ -1,0 +1,144 @@
+body {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+    
+}
+
+div a  {
+    color: #444444;
+    opacity: 0.75;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+div#navbar {
+    display: grid;
+    grid-template-columns: 50px 77% 50px 60px 30px 75px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    
+}
+
+.ab:hover {
+    text-decoration: underline;
+    color: #000000;
+    opacity: 0.75;
+}
+
+#sign {
+    padding: 5px;
+    background-color: #4285f4;
+    color: #ffffff;
+    font-weight: bold;
+    border: 1px solid #4285f4;
+    margin-top: -5px;
+    border-radius: 3px;
+    
+}
+
+#menu:hover{
+    border: 1px solid lightgray;
+}
+#sign:hover {
+    border: 1px solid lightblue;
+}
+
+div#main {
+
+    display: grid;
+    
+
+}
+
+div#main img {
+    justify-self: center;
+    margin-top: 100px;
+    
+}
+
+div#main input {
+    width: 35%;
+    height: 35px;
+    border-radius: 15px;
+    justify-self: center;
+    margin-top: 10px;
+    opacity: 0.75;
+    color: #444444;
+}
+
+#searchbar:hover {
+    
+    box-shadow: 3px 3px 8px 3px  #DCDCDC;
+
+}
+
+div#button {
+    text-align: center;
+    color: #444444;
+    opacity: 0.75;
+    margin-top: 15px;
+}
+
+#search {
+  padding: 10px;
+  border: 3px;
+  position: absolute;
+  left: 510px;
+}
+
+#search:hover {
+border: 1px solid lightgray;}
+
+#lucky {
+    padding: 10px;
+    border: 3px;
+    position: absolute;
+    left: 650px;
+}
+
+#lucky:hover {
+    border: 1px solid lightgray;}
+
+
+
+div#footer {
+    background-color: #f2f2f2;
+position: fixed;
+bottom: 0%;
+padding: 20px;
+width: 100%;
+right: 0;
+    left: 0;}
+
+
+#adv {
+    padding-right: 10px;
+}
+
+#bus {
+    padding-right: 10px;
+}
+
+#how {
+    padding-right: 63%;
+}
+
+#set {
+    padding-right: 10px;
+}
+
+#pri {
+    padding-right: 10px;
+}
+
+#ter {
+    padding-right: 10px;
+}
+
+.fo:hover {
+    
+        text-decoration: underline;
+        color: #000000;
+        opacity: 0.75;
+}
